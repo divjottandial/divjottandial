@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divjottandial
 - 👀 I’m interested in web devlopment and AI
-- 🌱 I’m currently learning HTML, CSS, React and Frontend development
+- 🌱 I’m currently learning HTML, CSS and Frontend development
 - 💞️ I’m looking to collaborate on innovative web projects and AI applications.
 - 📫 How to reach me: Email- divjottandial13@gmail.com | LinkedIn- www.linkedin.com/in/divjot-tandial
 - 😄 Pronouns: She/Her
